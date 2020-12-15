@@ -1,0 +1,83 @@
+Welcome to the Music Collection Organizer!
+
+Enter 1 to add music to your collection,
+Enter 2 to view your music collection,
+Enter 3 to rank your favourite music,
+Enter 4 to view your music rankings,
+Enter 5 to exit the program.
+
+1
+
+Enter album title: Led Zeppelin IV
+
+Enter album artist: Led Zeppelin
+
+Enter album genre: Hard Rock
+
+Enter album year: 1971
+
+Continue to input albums (y/n)? y
+
+Enter album title: Sgt Pepper's Lonely Hearts Club Band
+
+Enter album artist: The Beatles
+
+Enter album genre: Psychedelic Pop/Rock
+
+Enter album year: 1967
+
+Continue to input albums (y/n)? n
+
+Enter 1 to add music to your collection,
+Enter 2 to view your music collection,
+Enter 3 to rank your favourite music,
+Enter 4 to view your music rankings,
+Enter 5 to exit the program.
+
+2
+
+Your music collection:
+
+Title: Led Zeppelin IV
+Artist: Led Zeppelin
+Genre: Hard Rock
+Year: 1971
+
+Title: Sgt Pepper's Lonely Hearts Club Band
+Artist: The Beatles
+Genre: Psychedelic Pop/Rock
+Year: 1967
+
+Enter 1 to add music to your collection,
+Enter 2 to view your music collection,
+Enter 3 to rank your favourite music,
+Enter 4 to view your music rankings,
+Enter 5 to exit the program.
+
+3
+
+Rank your music collection:
+
+Enter a rank for Led Zeppelin IV by Led Zeppelin: 2
+
+Enter a rank for Sgt Pepper's Lonely Hearts Club Band by The Beatles: 1
+
+Enter 1 to add music to your collection,
+Enter 2 to view your music collection,
+Enter 3 to rank your favourite music,
+Enter 4 to view your music rankings,
+Enter 5 to exit the program.
+
+4
+
+Your music ranking:
+#1. Sgt Pepper's Lonely Hearts Club Band by The Beatles (1967) [Psychedelic Pop/Rock]
+#2. Led Zeppelin IV by Led Zeppelin (1971) [Hard Rock]
+
+Enter 1 to add music to your collection,
+Enter 2 to view your music collection,
+Enter 3 to rank your favourite music,
+Enter 4 to view your music rankings,
+Enter 5 to exit the program.
+
+5

@@ -1,0 +1,24 @@
+Music collection info and rank program
+
+This program will store information about the user's music collection and allow the user to rank the albums. It will take input from the user to store in a vector of album objects. The user will then be able to rank these in a map structure.
+
+Album object:
+- string title
+- string artist
+- string genre
+- int year
+- getter/setter functions for each variable
+
+Global variables:
+- vector of albums
+- map of albums and rankings
+
+Menu:
+1. Enter music info
+	Read in user input, store in temporary Album object, then push onto vector
+2. Display music info
+	Print vector contents on screen
+3. Rank albums
+	For each album: get album data from vector, then assign a ranking according to user input, store in map
+4. Display rankings
+	Print map contents on screen
